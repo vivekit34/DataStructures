@@ -11,7 +11,6 @@ public class ContainsDuplicate {
                 return true;
             } else {
                 hm.put(num, 1);
-
             }
         }
         return false;
